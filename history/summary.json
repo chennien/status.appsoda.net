@@ -6,17 +6,15 @@
     "slug": "app-soda",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 271,
-    "timeDay": 184,
-    "timeWeek": 208,
-    "timeMonth": 206,
+    "timeDay": 191,
+    "timeWeek": 182,
+    "timeMonth": 209,
     "timeYear": 274,
-    "dailyMinutesDown": {
-      "2023-07-25": 5
-    }
+    "dailyMinutesDown": {}
   }
 ]
