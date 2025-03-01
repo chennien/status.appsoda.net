@@ -4,19 +4,19 @@
     "url": "https://appsoda.net/robots.txt",
     "icon": "https://appsoda.net/favicon.ico",
     "slug": "app-soda",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.06%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 162,
-    "timeDay": 351,
-    "timeWeek": 189,
-    "timeMonth": 175,
+    "timeDay": 256,
+    "timeWeek": 175,
+    "timeMonth": 172,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-03-01": 0
+      "2025-03-01": 14
     }
   }
 ]
