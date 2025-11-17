@@ -4,7 +4,7 @@
     "url": "https://appsoda.net/robots.txt",
     "icon": "https://appsoda.net/favicon.ico",
     "slug": "app-soda",
-    "status": "up",
+    "status": "down",
     "uptime": "96.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -14,7 +14,7 @@
     "timeDay": 368,
     "timeWeek": 495,
     "timeMonth": 545,
-    "timeYear": 353,
+    "timeYear": 352,
     "dailyMinutesDown": {
       "2025-11-09": 16,
       "2025-11-08": 16,
