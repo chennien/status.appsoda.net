@@ -5,12 +5,12 @@
     "icon": "https://appsoda.net/favicon.ico",
     "slug": "app-soda",
     "status": "down",
-    "uptime": "94.80%",
-    "uptimeDay": "74.25%",
+    "uptime": "94.74%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "58.04%",
     "uptimeMonth": "11.45%",
-    "uptimeYear": "89.55%",
-    "time": 441,
+    "uptimeYear": "89.27%",
+    "time": 442,
     "timeDay": 0,
     "timeWeek": 204,
     "timeMonth": 204,
@@ -65,7 +65,8 @@
       "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1057,
-      "2026-09-16": 205,
+      "2026-09-17": 211,
+      "2026-09-16": 1440,
       "2026-09-15": 166
     }
   }
